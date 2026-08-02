@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>- 💼 Full Stack Developer (React.js + Node.js)<br>- 🌱 Currently learning Docker, Redis and System Design<br>- ⚡ Building scalable MERN applications<br>- 📚 Exploring Next.js 16, TypeScript and Backend Architecture<br>- 🎯 Goal: Build production-ready applications that scale<br>- 💬 Ask me about React, Node.js, MongoDB, REST APIs and TypeScript
+## 💼 Full Stack Developer (React.js + Node.js)<br>- 🌱 Currently learning Docker, Redis and System Design<br>- ⚡ Building scalable MERN applications<br>- 📚 Exploring Next.js 16, TypeScript and Backend Architecture<br>- 🎯 Goal: Build production-ready applications that scale<br>- 💬 Ask me about React, Node.js, MongoDB, REST APIs and TypeScript
 
 
 ## 🌐 Socials:
