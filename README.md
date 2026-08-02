@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/vishalyadav-dev">
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 </a>
 
