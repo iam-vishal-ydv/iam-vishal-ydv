@@ -48,7 +48,7 @@ Node.js • Express.js • MongoDB • JWT • Cloudinary • Razorpay • PayPa
 
 ### 🔗 Links
 
-🌐 Live Demo: [https://your-demo-link](https://urban-cart-topaz.vercel.app/shop/home)
+🌐 Live Demo: UrbanCart(https://urban-cart-topaz.vercel.app/shop/home)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
